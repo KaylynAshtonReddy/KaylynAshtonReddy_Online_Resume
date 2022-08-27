@@ -1,5 +1,5 @@
 
-## KAylyn Ashton Reddy - Resume Site
+## Kaylyn Ashton Reddy - Resume Site
 
 This site which is hosted by GitHub is a website displays an informal resume to showcase my skills learned over my work history and to my online presence.
 
@@ -12,6 +12,8 @@ Projects
 Education
 Contact
 
+##Site
+Visit my site : https://kaylynashtonreddy.github.io/KaylynAshtonReddy_Online_Resume/ 
 ## License
 
 This project is licensed under the [MIT license](LICENSE).
