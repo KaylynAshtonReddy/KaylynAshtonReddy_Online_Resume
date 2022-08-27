@@ -13,7 +13,7 @@ Projects
 Education
 Contact
 
-##Site
+## Site
 Visit my site : https://kaylynashtonreddy.github.io/KaylynAshtonReddy_Online_Resume/ 
 ## License
 
